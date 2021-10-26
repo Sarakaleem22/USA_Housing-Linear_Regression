@@ -9,7 +9,7 @@
 
 ## Codes and Resources
 * Google Colab
-* Libraries: numpy, matplotlib, pandas, seasborn
+* Libraries: numpy, matplotlib, pandas, seasborn, sklearn
 
 ## Model Implementation and Performance
 First, I did research and decided the model that I will be implementing for this project. Then, I studied the dataset. I used 0.8:0.2 train-test split.
